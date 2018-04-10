@@ -1,0 +1,36 @@
+# Development
+log/*
+tmp/**/*
+doc/*
+/.bundle/*
+.powrc
+.svn
+.env
+.powenv_back
+cert/*
+
+# DB
+latest.dump
+
+# Vim
+*.swp
+*.swo
+
+# Version Management
+.rvmrc
+.ruby-gemset
+.ruby-version
+
+# Testing
+coverage/*
+spec/spec_failing_examples.txt
+spec_report.html
+
+# OSX
+.DS_Store
+*gitignore*.txt
+
+# Data files
+*.csv
+*.xls
+*.xlsx
